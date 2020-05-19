@@ -1,0 +1,22 @@
+{
+  "name": "npm-lab-onl01-seng-ft-012120",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrew041994/npm-lab-onl01-seng-ft-012120.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrew041994/npm-lab-onl01-seng-ft-012120/issues"
+  },
+  "homepage": "https://github.com/andrew041994/npm-lab-onl01-seng-ft-012120#readme",
+  "dependencies": {
+    "moment": "^2.25.3"
+  }
+}
